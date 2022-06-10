@@ -1,0 +1,42 @@
+Scan started at: 6/10/2022 9:04:31 PM UTC
+https://www.rugscreen.com/scan/results?id=13e7f8c308 
+31,726 total comparisons made for this scan.
+ 
+Transfer function contains: comparison of from/to/sender/recipient to owner address: 0.025 points
+Mitigating factor: Comparison to Maximum Transaction Constant 
+
+Transfer function contains: comparison of from/to/sender/recipient to owner address: 0.05 points
+Mitigating factor: Comparison to Maximum Transaction Constant 
+
+Transfer function contains: comparison of from/to/sender/recipient to non-zero address: 0.075 points
+Mitigating factor: Comparison to swapV2Pair
+ 
+0.075 Points. Probably Not A Rug
+
+Holders
+
+Burned:
+95.94%         	
+Creator:
+0.00%         	
+Owner:
+0.00%         	
+Other:
+4.06%         
+
+
+Liquidity
+Between $5000 and $50000
+ 	 	 	 	 
+ 
+Percent Locked Or Burned: 100%
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+ 
+Ownership: Renounced
+0x0000000000000000000000000000000000000000
+Rugscreen Score
+0.075 Points. Probably Not A Rug
+ 	 	 	 	 
+ 
+Can sell	Buy Tax	Sell Tax
+Yes	10%	10%
